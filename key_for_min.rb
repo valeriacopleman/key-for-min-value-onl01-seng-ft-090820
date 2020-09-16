@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   i = 0
-  while i < array.length do 
+  while i < name_hash.length do 
  name_a = name_hash.to_a
 
   # Default key value
